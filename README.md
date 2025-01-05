@@ -7,8 +7,8 @@ First version :
 - [x] type,inurl,site,intitle,before,after,numrange
 
 Second version :
-- [ ] UI v1
-- [ ] Auto open in browser
+- [x] UI v1
+- [x] Auto open in browser
 
 Third version :
 - [ ] .exe for UI
