@@ -61,11 +61,11 @@ class GoogleSearchBuilder:
         
         # Add basic search terms
         if values["Research"]:
-            query_parts.append(f'"{values["Research"]}"')
+            query_parts.append(f"'{values["Research"]}'")
             
         # Add file type
         if values["Type"]:
-            query_parts.append(f'filetype:{values["Type"]}')
+            query_parts.append(f':{values["Type"]}')
             
         # Add URL filter
         if values["Inurl"]:
