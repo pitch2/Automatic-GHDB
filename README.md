@@ -7,9 +7,10 @@ First version :
 - [x] type,inurl,site,intitle,before,after,numrange
 
 Second version :
-- [ ] CLI and UI
+- [ ] UI v1
 - [ ] Auto open in browser
 
 Third version :
 - [ ] .exe for UI
+- [ ] UI v2
 - [ ] More options
